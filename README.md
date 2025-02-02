@@ -1,18 +1,18 @@
-# Cookie Animation Cart
+# Cookie Popup
 
-A fun and interactive web project that adds animated cookie-themed effects to your shopping cart. This project uses animations to make the shopping experience more engaging, with cookie-related animations triggered during various actions such as adding items to the cart or completing a purchase.
+This project creates a cookie notification popup for websites. It includes an SVG cookie design and simple styling, as well as a dismiss button that allows users to accept the cookie notification.
 
 ## Features
+- **Cookie design**: Uses SVG to display a cookie image.
+- **Responsive**: Adjusts to different screen sizes.
+- **Interactive**: Users can dismiss the popup.
 
-- **Cookie Animation Effects:** Delightful animations such as cookies bouncing, spinning, and popping up when items are added to the cart.
-- **Interactive Cart:** A fun, interactive cart where users can see their cookie-themed items with animated effects.
-- **Smooth Transitions:** Items added to the cart are smoothly animated, providing a dynamic and enjoyable user experience.
-- **Responsive Design:** Optimized for various screen sizes, making it accessible on desktop, tablet, and mobile devices.
-- **Customizable Animations:** Easily customize the cookie animations, including duration, style, and effects to match your website's theme.
+## Files
+1. **index.html**: The main HTML file containing the structure of the popup.
+2. **styles.css**: The CSS file for styling the cookie popup and page.
+3. **cookie.js** (optional): A JavaScript file that can be used for additional interactivity like saving the user’s choice in a cookie.
 
-## Technologies Used
-
-- **HTML5:** Clean, semantic markup for structuring the shopping cart and items.
-- **CSS3:** Styling and animations for smooth, delightful transitions and effects.
-- **JavaScript (ES6+):** Handles user interactions, such as adding items to the cart, and triggers cookie animations.
-- **GSAP (GreenSock Animation Platform):** (Optional) For advanced animations and performance optimizations.
+## How to Use
+1. **Clone or download** the repository.
+2. Open the `index.html` file in any browser to see the cookie popup in action.
+3. Customize the popup’s look by editing the **styles.css** file or modify the content as per your requirement in **index.html**.
