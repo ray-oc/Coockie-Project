@@ -12,7 +12,3 @@ This project creates a cookie notification popup for websites. It includes an SV
 2. **styles.css**: The CSS file for styling the cookie popup and page.
 3. **cookie.js** (optional): A JavaScript file that can be used for additional interactivity like saving the user’s choice in a cookie.
 
-## 🚀 How to Use
-1. **Clone or download** the repository.
-2. Open the `index.html` file in any browser to see the cookie popup in action.
-3. Customize the popup’s look by editing the **styles.css** file or modify the content as per your requirement in **index.html**.
